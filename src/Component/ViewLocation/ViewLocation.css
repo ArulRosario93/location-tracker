@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.ViewLocation{
+    padding: 8vh 0px;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+.ViewLocation h1{
+    margin: 0%;
+    font-size: xx-large;
+    /* text-decoration: underline; */
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+}
+
+.ViewLocation{
+    margin: auto;
+    width: 100vw;
+    /* height: max-content; */
+}
+
+.ViewLocation img{
+    width: 80vw;
+}
